@@ -1,0 +1,11 @@
+Dataset: Online Retail Dataset
+
+Source:Dataset: Online Retail Dataset
+
+Source:
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+
+OR
+
+https://www.kaggle.com/datasets/vijayuv/onlineretail
